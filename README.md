@@ -1,3 +1,4 @@
+![banner](genwan-cover-tw.png?raw=true)
 # 源雲明體（繁體中文）
 
 「源雲明體」是基於[思源宋體](https://github.com/adobe-fonts/source-han-serif/)的而改造的開放原始碼中文字型。
@@ -35,8 +36,8 @@
 未來亦不保證持續跟隨思源宋體升版。
 
 
-
-# 源雲明朝　げんわんみんちょう（日本語）
+![banner](genwan-cover-jp.png?raw=true)
+# 源雲明朝　（日本語）
 
 「源雲明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。
 
