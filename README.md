@@ -44,7 +44,8 @@
 
 ---
 
-#日本語
+# 日本語
+
 ![banner](genwan-cover-jp.png?raw=true)
 
 「源雲明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。
